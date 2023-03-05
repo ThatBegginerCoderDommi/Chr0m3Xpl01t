@@ -1,0 +1,5 @@
+MAKfs => file
+-------------
+
+var file = ('function{""}')
+
